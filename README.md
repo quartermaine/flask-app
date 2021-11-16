@@ -13,7 +13,6 @@ C. follow the [Flask EB tutorial](https://docs.aws.amazon.com/elasticbeanstalk/l
 
 D. create your buildspec.yml file
 
-Additionally you can create a Makefile to test the app on the aws cloud9 environment.
 
 
 
